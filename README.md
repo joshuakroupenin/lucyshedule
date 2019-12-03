@@ -2,4 +2,4 @@
 
 This program sends reminders to Lucy using Teams chanel and Logic App
 
-![Logic app](logicApp.png)
+![Logic app](logicapp.png)
